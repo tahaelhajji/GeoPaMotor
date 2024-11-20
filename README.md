@@ -7,7 +7,7 @@ This repository is dedicated to the geometrizatic parametrization of various top
 
 # Contributing to this repository
 
-# :upload: Contributing to this repository
+# :envelope_with_arrow: Contributing to this repository
 This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code.
 
 # :star: Acknowledgement
