@@ -2,7 +2,7 @@
 
 This repository is dedicated to the geometrizatic parametrization of various topologies of electric motors mostly used in electric transports. This parametrization is useful for the optimization process in which it is required to generate multiple feasible geometries using robust geometric design. This parametrization relies on a fine mathematical design of the motor geometry. This repository will list the parametrization of the most used motors used in the automotive industry.
 
-# List of Motors:
+# :scroll: List of Motors:
 
 - ## V_1Lay_PMSM:
 This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
