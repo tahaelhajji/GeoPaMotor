@@ -16,10 +16,10 @@ This is an internal Permanent Magnet Synchronous Motor with pole shape. This mot
 ## :mag_right: Looking for a specific motor topology?
 If you would like to parametrize the geometry of a motor topology (not among the listed motor topologies above), whether for a public research work or private research work (not to be included in this repository), send me an inquiry by email taha.elhajji@gmail.com. Based on my experience, I can design the motor geometries using robust and complex mathematical equations.
 
-## :hammer: Instructions for the GeoPaMotor Tool
+## :hammer_and_wrench: Instructions for the GeoPaMotor Tool
 The GeoPaMotor can be used and integrated in your design tool. As this repository is composed of various contributions, each motor specifies the instructions on how to use it to and connect it with your research work.
 
-## :hammer_and_wrench: Fixing bugs:
+## :bug: Fixing bugs:
 If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
 
 ## ![image](https://github.com/user-attachments/assets/73a22d2d-ceb3-4fe8-8269-c8f7a2ea8728) Contributing to this repository
