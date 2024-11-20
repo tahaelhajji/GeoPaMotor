@@ -24,7 +24,7 @@ As this repository is compsoed of various contributions, each motor specifies ho
 This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
 
 # :star: Acknowledgement
-This repository is composed of multiple contribution. Acknowledgement is specified for each motor and contribution.
+This repository is composed of multiple contributions. Acknowledgement is specified for each motor and contribution.
 
 # :books: Citation
 If you find this repository useful in your research, please consider citing our work :pencil: and giving a star :star2: :
