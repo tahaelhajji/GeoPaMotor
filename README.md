@@ -4,13 +4,13 @@ This repository is dedicated to the geometrizatic parametrization of various top
 
 # List of Motors:
 
-## V-Shaped Permanent Magnet Synchronous Motor:
+## - V-Shaped Permanent Magnet Synchronous Motor:
 This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
 
-## Internal Permanent Magnet Synchronous Motor:
+## - Internal Permanent Magnet Synchronous Motor:
 This motor topology is geometrically parametrized for one layer flat inserted magnets.
 
-## Internal Permanent Magnet Synchronous Motor with pole shape:
+## - Internal Permanent Magnet Synchronous Motor with pole shape:
 This motor topology is geometrically parametrized for one layer flat inserted magnets with pole shape on the rotor periphery.
 
 # :wrench: Looking for a specific motor topology?
