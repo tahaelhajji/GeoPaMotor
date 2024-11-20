@@ -23,9 +23,9 @@ As this repository is compsoed of various contributions, each motor specifies ho
 ## :hammer_and_wrench: Fixing bugs:
 If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
 
-## ![image](https://github.com/user-attachments/assets/73a22d2d-ceb3-4fe8-8269-c8f7a2ea8728) { width: 200px; } Contributing to this repository
+## ![image](https://github.com/user-attachments/assets/73a22d2d-ceb3-4fe8-8269-c8f7a2ea8728) Contributing to this repository
 This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
-
+<img src="https://github.com/user-attachments/assets/73a22d2d-ceb3-4fe8-8269-c8f7a2ea8728" width="500" height="600">
 # :star: Acknowledgement
 This repository is composed of multiple contributions. Acknowledgement is specified for each motor and contribution.
 
