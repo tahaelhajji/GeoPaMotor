@@ -17,7 +17,7 @@ This motor topology is geometrically parametrized for one layer flat inserted ma
 If you would like to parametrize the geometry of a motor topology (not among the listed motor topologies above), whether for a public research work or private research work (not to be included in this repository), feel free to reach out to me taha.elhajji@gmail.com.
 
 
-# :Hammer: How to use the GeoPaMotor Tool
+# :hammer: How to use the GeoPaMotor Tool
 The GeoPaMotor can be used and integrated in your design tool.
 As this repository is compsoed of various contributions, each motor specifies how to use it to connect it with
 
