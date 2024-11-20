@@ -6,8 +6,7 @@ This repository is dedicated to the geometrizatic parametrization of various top
 
 
 # Looking to geometrically parametrize a specific motor topology
-If you would like to parametrize the geometry of a motor topology (not among the listed motor topologies above), whether for a public research work or private research work (not to be included in this repository), feel free to reach out to me:
-✉️ taha.elhajji@gmail.com
+If you would like to parametrize the geometry of a motor topology (not among the listed motor topologies above), whether for a public research work or private research work (not to be included in this repository), feel free to reach out to me taha.elhajji@gmail.com.
 
 
 # :Hammer: How to use the GeoPaMotor Tool
