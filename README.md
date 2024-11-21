@@ -19,7 +19,7 @@ The GeoPaMotor can be used and integrated in your design tool. As this repositor
 ## :mag_right: Looking for a specific motor topology?
 If you would like to parametrize the geometry of a motor topology (not among the listed motor topologies above), whether for a public research work or private research work (not to be included in this repository), send me an inquiry by email taha.elhajji@gmail.com. Based on my experience, I can design the motor geometries using robust and complex mathematical equations.
 
-## :inbox_tray: Contributing to this repository
+## :inbox_tray: Contributing to the repository
 This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
 
 ## :bug: Fixing bugs:
