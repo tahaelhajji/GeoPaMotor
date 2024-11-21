@@ -2,7 +2,9 @@
 This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
 
 ## :computer: Demo:
-A online demonstration of the V-shaped PMSM will be available soon on [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+A online demonstration of the V-shaped PMSM will be available soon on:
+* [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+* [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()
 
 ## :open_book: Resources:
 This tool can be used for optimization purposes. An application of this tool can be found in our published article:
