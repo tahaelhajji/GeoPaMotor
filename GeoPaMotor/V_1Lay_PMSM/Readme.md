@@ -9,7 +9,7 @@ A online demonstration of the V-shaped PMSM will be available soon on Google Col
 
 ## Resources:
 This tool can be used for optimization purposes. An application of this tool can be found in our published article:
-* [![IEEE](https://img.shields.io/badge/IEEE-ICEM_Conference-blue?logo=ieee)](https://drive.google.com/file/d/1gXQmk9nBth5IfnEA9TUMGjpPE5HnNHCN/view?usp=drivesdk)
+* [![IEEE](https://img.shields.io/badge/-ICEM_Conference-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10700405)
 
 ## ![image](https://github.com/user-attachments/assets/73a22d2d-ceb3-4fe8-8269-c8f7a2ea8728) Contributing to this repository:
 This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
