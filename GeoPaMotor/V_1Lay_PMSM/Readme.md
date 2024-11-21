@@ -4,10 +4,10 @@ This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most us
 ## :bug: Fixing bugs:
 If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
 
-## Demo:
+## :computer: Demo:
 A online demonstration of the V-shaped PMSM will be available soon on Google Collab
 
-## Resources:
+## :open_book: Resources:
 This tool can be used for optimization purposes. An application of this tool can be found in our published article:
 * [![IEEE](https://img.shields.io/badge/IEEE-ICEM_Conference-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10700405)
 
