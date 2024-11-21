@@ -1,9 +1,6 @@
 # V_1Lay_PMSM:
 This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
 
-## :bug: Fixing bugs:
-If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
-
 ## :computer: Demo:
 A online demonstration of the V-shaped PMSM will be available soon on Google Collab
 
@@ -14,6 +11,8 @@ This tool can be used for optimization purposes. An application of this tool can
 ## :inbox_tray: Contributing to the repository:
 This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
 
+## :bug: Fixing bugs:
+If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
 
 ## :star: Acknowledgement:
 This work has been funded by the Research Council of Finland under Grant 346438.
