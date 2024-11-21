@@ -14,7 +14,9 @@ This is an internal Permanent Magnet Synchronous Motor. This motor topology is g
 This is an internal Permanent Magnet Synchronous Motor with pole shape. This motor topology is geometrically parametrized for one layer flat inserted magnets with pole shape on the rotor periphery.
 
 ## :computer: Demo:
-An online demonstration allows to try the tool and provides a preview of the motor geometry for given parameters by the user. This online demonstration is provided for some motors on [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+An online demonstration allows to try the tool and provides a preview of the motor geometry for given parameters by the user. This online demonstration is provided for some motors on:
+* [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+* [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()
 
 ## :hammer_and_wrench: Instructions for the GeoPaMotor Tool
 The GeoPaMotor can be used and integrated in your design tool. As this repository is composed of various contributions, each motor specifies the instructions on how to use it to and connect it with your research work.
