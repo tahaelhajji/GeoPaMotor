@@ -1,4 +1,4 @@
-# **V_1Lay_PMSM:**
+** # V_1Lay_PMSM:**
 This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
 
 ## :bug: Fixing bugs:
