@@ -30,6 +30,9 @@ This repository is open for contribution by external researchers. The motor can 
 ## :bug: Fixing bugs:
 If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
 
+## :technologist: Authors:
+Authors are determined for each motor and contribution.
+
 # :star: Acknowledgement
 This repository is composed of multiple contributions. Acknowledgement is specified for each motor and contribution.
 
