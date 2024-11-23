@@ -10,11 +10,14 @@ A online demonstration of the V-shaped PMSM will be available soon on:
 This tool can be used for optimization purposes. An application of this tool can be found in our published article:
 * [![IEEE](https://img.shields.io/badge/IEEE-Paper-blue?logo=ieee)]()
 
-## :inbox_tray: Contributing to the repository:
-This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
-
 ## :bug: Fixing bugs:
 If you encountered any bugs with the GeoPaMotor tool, contact me an email specifying the bug and the concerned motor: taha.elhajji@gmail.com.
+
+## :technologist: Authors:
+Taha El Hajji, Antti Lehikoinen, Anouar Belahcen
+
+## :inbox_tray: Contributing to the repository:
+This repository is open for contribution by external researchers. The motor can be geometrically parametrized and written with any code: Python, Matlab, C, Fortran, ...
 
 ## :star: Acknowledgement:
 This work has been funded by the Research Council of Finland under Grant 346438.
