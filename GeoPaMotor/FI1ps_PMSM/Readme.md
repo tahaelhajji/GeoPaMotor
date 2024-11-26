@@ -1,4 +1,4 @@
-# F_Ins_1Lay_ps_PMSM:
+# FI1ps_PMSM:
 This motor is a flat inserted Permanent Magnet Synchronous Motor with pole shape on the rotor periphery. This motor topology is geometrically parametrized for one layer flat inserted magnets.
 
 ## :computer: Demo:
