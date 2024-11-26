@@ -25,4 +25,4 @@ This work has been funded by the Research Council of Finland under Grant 346438.
 ## :books: Citation:
 If you find this repository useful in your research, please consider citing our work :pencil: and giving a star :star2: :
 ```
-CITATION WILL BE MENTIONED SOON
+CITATION COMING SOON
