@@ -8,15 +8,15 @@ This repository is dedicated to the geometrizatic parametrization of various top
 ## :scroll: List of Motors:
 
 - ### V1_PMSM:
-V-shaped 1 layer PMSM
+V-shaped 1 layer PMSM  
 This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
 
 - ### FI1_PMSM:
-Flat Inserted 1 layer PMSM
+Flat Inserted 1 layer PMSM  
 This is an internal Permanent Magnet Synchronous Motor. This motor topology is geometrically parametrized for one layer flat inserted magnets.
 
 - ### FI1ps_PMSM:
-Flat Inserted 1 layer with Pole Shape PMSM
+Flat Inserted 1 layer with Pole Shape PMSM  
 This is an internal Permanent Magnet Synchronous Motor with pole shape. This motor topology is geometrically parametrized for one layer flat inserted magnets with pole shape on the rotor periphery.
 
 ## :computer: Demo:
