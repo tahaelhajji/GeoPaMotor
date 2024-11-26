@@ -1,5 +1,5 @@
 
-# FI1ps_PMSM:
+# FI1_PMSM:
 Flat Inserted 1 layer PMSM
 This is an internal Permanent Magnet Synchronous Motor. This motor topology is geometrically parametrized for one layer flat inserted magnets.
 
