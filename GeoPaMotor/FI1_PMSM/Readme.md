@@ -1,6 +1,8 @@
 
 # FI1ps_PMSM:
-This motor is a V-Shaped Permanent Magnet Synchronous Motor. This is the most used motor topology in the automotive industry. This motor topology is geometrically parametrized for one layer V-shaped magnets.
+Flat Inserted 1 layer PMSM
+This is an internal Permanent Magnet Synchronous Motor. This motor topology is geometrically parametrized for one layer flat inserted magnets.
+
 
 ## :computer: Demo:
 A online demonstration of the V-shaped PMSM will be available soon on:
